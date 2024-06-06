@@ -14,7 +14,7 @@ body {
 }
 
 .calculatrice {
-  background-color: tomato;
+  background-color: black;
   display: flex;
   flex-direction: column;
 }
